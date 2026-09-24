@@ -1,4 +1,6 @@
-# TheLook E-Commerce — Star Schema & Sales Dashboard
+# TheLook E-Commerce - Star Schema & Sales Dashboard
+
+![workflow](workflow.svg)
 
 ## Overview
 
@@ -238,8 +240,8 @@ LEFT JOIN Ecommerce_analytics.dim_distribution_center dc ON f.distribution_cente
 
 Built in Power BI, connected live to the BigQuery star schema via Import mode.
 
-![Dashboard Screenshot](images/dashboard.png)
-*Replace `images/dashboard.png` with your own dashboard screenshot.*
+![Dashboard Screenshot](thelook-dashboard.png)
+
 
 ### Business questions answered
 
@@ -267,6 +269,21 @@ The dashboard includes slicers for:
 | `dim_users` | Dimension | One row per customer |
 | `dim_products` | Dimension | One row per product |
 | `dim_distribution_center` | Dimension | One row per warehouse |
+
+---
+## Other screenshots
+
+Bigquery SQL Queries
+
+![Queries Screenshot](BQ-Queries.png)
+
+Bigquery Result Table
+
+![result Screenshot](BQ-result.png)
+
+PowerBI Model View
+
+![Model View Screenshot](PowerBI-ModelView.png)
 
 ---
 
