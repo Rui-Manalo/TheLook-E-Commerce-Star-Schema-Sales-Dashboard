@@ -289,8 +289,8 @@ PowerBI Model View
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com) · [Email](mailto:your.email@example.com)
+Made by Rui Manalo · [LinkedIn](https://www.linkedin.com/in/rui-manalo-71350a376), [Portfolio](https://www.datascienceportfol.io/ruicourse3)
+
 
 ---
 
